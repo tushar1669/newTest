@@ -1,2 +1,2 @@
 # newTest
-My first repository om Github.
+My first repository on Github.
